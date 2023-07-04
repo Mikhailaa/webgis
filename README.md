@@ -1,14 +1,9 @@
 
-### HIRSS
-* [page 1](https://www.eoportal.org/satellite-missions/noaa-poes-series-5th-generation)
-* [page 2](https://www.avl.class.noaa.gov/release/data_available/tovs_atovs/index.htm)
-* [page 3](https://ntrs.nasa.gov/api/citations/19760014184/downloads/19760014184.pdf)
-* [page 4](https://www-cdn.eumetsat.int/files/2020-04/pdf_v2a_atovs_level_1b.pdf)
-* [page 5](https://www1.ncdc.noaa.gov/pub/data/satellite/publications/podguides/N-15%20thru%20N-19/pdf/0.0%20NOAA%20KLM%20Users%20Guide.pdf)
-* [page 6](https://sourceforge.isae.fr/projects/reception-of-weather-images/wiki/Introduction_to_NOAA_satellites_(II))
-* [page 7](https://cimss.ssec.wisc.edu/itwg/itsc/itsc12/presentations/5b2_R.Glumb_J.Predina.doc)
-* [page 8](https://archive.stsci.edu/fuse/instrumenthandbook/chapter2.html)
-* [page 9](https://www.data.jma.go.jp/mscweb/en/aomsuc6_data/oral/s01-03.pdf)
+### reference 
+* [git 1](https://drive.google.com/file/d/1GQJJxiCw3-Z_SZCr06dPaQj17Z9pCzLY/view?usp=sharing)
+* [packages 2](https://drive.google.com/file/d/18_hm6nhNRIacQuVgcOSAnDJqWJGo3mhK/view?usp=sharing)
+
+
 
 
 
