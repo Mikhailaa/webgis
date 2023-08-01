@@ -12,5 +12,6 @@
 * [Color_Consistency ](https://menghanxia.github.io/papers/2019_Color_Consistency_Optimization_isprs_journal.pdf)
 * [Consistency ](https://github.com/MenghanXia/ColorConsistency/archive/refs/heads/master.zip)
 * [dynamic model of phytoplankton](https://www.int-res.com/articles/meps/148/m148p187.pdf)
+* [Surface pigments](https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.1989.34.8.1545?download=true)
 * [ nitrogen based model](https://www.researchgate.net/profile/Hugh-Ducklow/publication/233492097_A_nitrogen-based_model_of_plankton_dynamics_in_the_oceanic_mixed_layer/links/0c96052bc7023df5b0000000/A-nitrogen-based-model-of-plankton-dynamics-in-the-oceanic-mixed-layer.pdf?origin=publication_detail)
 
