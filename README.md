@@ -8,3 +8,4 @@
 * [Autel Explorer](https://www.dl.dropboxusercontent.com/scl/fi/qqoi63jr1z3fy528817yh/Explorer_V1.2.14-modelc-release.apk?rlkey=be8d7c2xs26ixl9vkcssg89s8&dl=0)
 * [Autel Explorer 2](https://www.dl.dropboxusercontent.com/scl/fi/992recman675fl3neuai3/Explorer_V2.0.33-tablet7_9-release.apk?rlkey=sfvqj616xuvu7i07pahigl3ft&dl=0)
 * [V3 Official Firmware](https://app.autelrobotics.cn/statics/cdn/RC/ModelC-A_FW_V1.1.54.zip)
+* [DeepLearning Machine Driver](https://drive.google.com/file/d/10Cf1bYojDb200Gs1alOv1I_jOcClLdsb/view?usp=drive_link)
